@@ -1,0 +1,24 @@
+กินข้าว		***Note::: F = Finish, N = Not Finish, NS = Not sure
+2. โต็ะ F
+4. โต๊ะ F
+8. เก้าอี้ N เก้าอี้ยาว F โต็ะ F
+9. เก้าอี้ NS
+21. เก้าอี้ F
+22. โต๊ะ F
+ในอนาคต : โต๊ะ : 2 เก้าอี้ : 2 (ถึง 23) 
+Total: โต๊ะ : 4 เก้าอี้ : 4
+Total + Future: โต๊ะ : 6 เก้าอี้ :  6
+
+รับแขก
+3. เก้าอี้ F โต๊ะ F
+5. โต๊ะ F
+13. โต๊ะ F (Dont forget Change Color: เพิ่มน้ำตาล)
+14. ตู้ F
+15. F (Dont forget Change Color: Black)
+16. ตู้ F 
+18. F (Dont forget Change Color: Black)
+ในอนาคต : เก้าอี้ : 2  (17. โต๊ะ เก้าอี้) (18. โต๊ะ) (ถึง 18)
+Total: โต๊ะ : 3 เก้าอี้ : 2 ตู้ : 3
+Total + Future: โต๊ะ : 5 เก้าอี้ : 5 ตู้ : 3
+
+Total Finish : โต๊ะ : 7 เก้าอี้ : 6 ตู้ : 3
